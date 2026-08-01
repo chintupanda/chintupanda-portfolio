@@ -19,4 +19,4 @@ This repository contains my personal portfolio website showcasing my professiona
 - Interactive UI
 
 ## Live Website
-[https:/](https://github.com/chintupanda)/.github.io/chintu-portfolio/
+[https:/](https://github.com/chintupanda)/chintu-portfolio
